@@ -25,9 +25,9 @@ In this project, a pre-trained Faster R-CNN model with a ResNet50 backbone was f
 - *Results:* 
   - Green & Yellow Boxes represent the actual & predicted boxes respectively.
   - The model predicted some redundant boxes.
-  - mAP@0.5 Value: ![mAP@0.5](images/faster_rcnn_map.png)
+  - mAP@0.5 Value: ![mAP@0.5](3.svg)
 
-![Faster R-CNN Predictions](images/faster_rcnn_predictions.png)
+![Faster R-CNN Predictions](2.png)
 
 ## Project 2: YOLOv8
 
