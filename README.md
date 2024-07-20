@@ -59,5 +59,5 @@ YOLOv8 outperforms Faster R-CNN in both accuracy and speed, making it suitable f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ObjectDetection.git
+   git clone https://github.com/your-username/RCNN_AND_YOLOV8.git
    cd ObjectDetection
